@@ -4,6 +4,7 @@
   <test name="test" >
     <classes>
       <class name="Sample.SampleSeleniumProjectTest"/>
+      <class name="Sample.SampleClass2"/>
       
     </classes>
  </test>
