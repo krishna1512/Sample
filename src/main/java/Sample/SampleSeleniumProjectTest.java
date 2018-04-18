@@ -21,6 +21,8 @@ public class SampleSeleniumProjectTest {
 		WebDriver dr= new ChromeDriver();
 		dr.navigate().to("http://toolsqa.com/selenium-webdriver/send-reports-automatically-to-email-using-maven-from-eclipse/");
 		dr.manage().window().maximize();
+		
+		//hgyugfuyg
   }
   
 
